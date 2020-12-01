@@ -6,7 +6,7 @@
 <p>No account? <a href="register.php"> Register Here</a></p>
 
 <form action="" method="post">
-    <input type="text" name="username" placeholder="Username">
+    <input type="text" name="name" placeholder="Username">
     <input type="password" name="password" placeholder="Password">
     <button type="submit">Log In</button>
 </form>
